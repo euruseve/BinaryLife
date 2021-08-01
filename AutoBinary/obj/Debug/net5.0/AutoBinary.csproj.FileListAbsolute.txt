@@ -1,0 +1,16 @@
+D:\Code\C#\test\AutoBinary\AutoBinary\bin\Debug\net5.0\AutoBinary.exe
+D:\Code\C#\test\AutoBinary\AutoBinary\bin\Debug\net5.0\AutoBinary.deps.json
+D:\Code\C#\test\AutoBinary\AutoBinary\bin\Debug\net5.0\AutoBinary.runtimeconfig.json
+D:\Code\C#\test\AutoBinary\AutoBinary\bin\Debug\net5.0\AutoBinary.runtimeconfig.dev.json
+D:\Code\C#\test\AutoBinary\AutoBinary\bin\Debug\net5.0\AutoBinary.dll
+D:\Code\C#\test\AutoBinary\AutoBinary\bin\Debug\net5.0\ref\AutoBinary.dll
+D:\Code\C#\test\AutoBinary\AutoBinary\bin\Debug\net5.0\AutoBinary.pdb
+D:\Code\C#\test\AutoBinary\AutoBinary\obj\Debug\net5.0\AutoBinary.csproj.AssemblyReference.cache
+D:\Code\C#\test\AutoBinary\AutoBinary\obj\Debug\net5.0\AutoBinary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\test\AutoBinary\AutoBinary\obj\Debug\net5.0\AutoBinary.AssemblyInfoInputs.cache
+D:\Code\C#\test\AutoBinary\AutoBinary\obj\Debug\net5.0\AutoBinary.AssemblyInfo.cs
+D:\Code\C#\test\AutoBinary\AutoBinary\obj\Debug\net5.0\AutoBinary.csproj.CoreCompileInputs.cache
+D:\Code\C#\test\AutoBinary\AutoBinary\obj\Debug\net5.0\AutoBinary.dll
+D:\Code\C#\test\AutoBinary\AutoBinary\obj\Debug\net5.0\ref\AutoBinary.dll
+D:\Code\C#\test\AutoBinary\AutoBinary\obj\Debug\net5.0\AutoBinary.pdb
+D:\Code\C#\test\AutoBinary\AutoBinary\obj\Debug\net5.0\AutoBinary.genruntimeconfig.cache
